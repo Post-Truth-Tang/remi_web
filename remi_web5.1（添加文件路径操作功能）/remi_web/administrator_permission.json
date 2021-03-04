@@ -1,0 +1,41 @@
+[
+    {
+        "administrator": "wuxiao",
+        "permission": "boss",
+        "account_name_list": []
+    },
+    {
+        "administrator": "tqz",
+        "permission": "boss",
+        "account_name_list": []
+    },
+    {
+        "administrator": "111",
+        "permission": "boss",
+        "account_name_list": []
+    },
+    {
+        "administrator": "222",
+        "permission": "staff",
+        "account_name_list": [
+            "ab_2",
+            "abc_3"
+        ]
+    },
+    {
+        "administrator": "333",
+        "permission": "staff",
+        "account_name_list": [
+            "abc_3",
+            "abcd_4"
+        ]
+    },
+    {
+        "administrator": "444",
+        "permission": "staff",
+        "account_name_list": [
+            "abcd_4",
+            "abcde_5"
+        ]
+    }
+]
